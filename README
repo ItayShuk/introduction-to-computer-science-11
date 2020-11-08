@@ -1,0 +1,29 @@
+itay.shukrun
+203262068
+Itay Shukrun
+
+=============================
+=  README for ex11  =
+=============================
+
+
+==================
+=  Description:  =
+==================
+
+Tree building functions, using recursive methods,
+Its vanished trees, the trees that had made way for Gatsby’s house,
+had once pandered in whispers to the last and greatest of all human dreams;
+for a transitory enchanted moment man must have held his breath in the presence
+of this continent,compelled into an æsthetic contemplation
+he neither understood nor desired, face to face for the
+last time in history with something commensurate to his capacity for wonder.
+
+======================
+=  Special Comments  =
+======================
+
+Didnt add any methods to Node or Record,
+although it could have been smart to add, 'is_leaf'
+
+Tried to use recursion as much as I could
